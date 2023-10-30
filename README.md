@@ -38,3 +38,6 @@ Essa parede foi ativada o Trigger e o Kinematic, para o Personagem poder atraves
 # Vídeo demonstração
 Abaixo um vídeo mostrando a funcionalidade do jogo.
 https://youtu.be/0-pKKEdIxZM
+
+# Link do Jogo
+https://drive.google.com/drive/folders/16mwNxYEbRgxJJqYr0ELGDjGUat6KmVnk
