@@ -41,3 +41,23 @@ https://youtu.be/0-pKKEdIxZM
 
 # Link do Jogo
 https://drive.google.com/drive/folders/16mwNxYEbRgxJJqYr0ELGDjGUat6KmVnk
+
+##
+
+## Atualizações para acréscimo de Menu e HUD
+
+## Tela de Menu
+
+![image](https://github.com/GuilhermeM777/Colisao-Cena/assets/127865701/bf39f961-3b17-484e-98bc-424000647bc0)
+
+Nesse menu criei um canvas, para por o título do jogo, depois usando a opção do UI no GmaeObject, para adicionar o Text Legacy, e o Button, depois só basto fazer a estilização dele, e adicionar um código simples de quando clicasse no botão, mudava a cena na qual ira mudar, seguindo exemplo abaixo.
+
+# Script 
+![image](https://github.com/GuilhermeM777/Colisao-Cena/assets/127865701/54b99bd3-151c-4568-8595-4e0ecb8bc06c)
+
+Foi criado um public void para carregar a fase, não necessitando void start nem update, pelo que ele irá fazer, após isso só foi necessário colocar a fase na qual será trocada, usando "using UnityEngine.SceneManagement" instanciado lá em cima, e outro public void, para sair do jogo. Os dois que serão botões difentes do Menu.
+
+## Temporizador
+![image](https://github.com/GuilhermeM777/Colisao-Cena/assets/127865701/85812d4c-efe1-4332-b7c4-787638d84744)
+
+Para fazer esse simples temporizador, que vai iniciar quando a cena foi trocada, o objetivo é que o personagem chegue antes do tempo, pois se não, o jogo voltará pro menu, mostrando que ele perdeu, só bastou declarar as variáveis do horário, iniciando em zero, e tendo que ir até 10 segundos.
