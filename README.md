@@ -39,9 +39,6 @@ Essa parede foi ativada o Trigger e o Kinematic, para o Personagem poder atraves
 Abaixo um vídeo mostrando a funcionalidade do jogo.
 https://youtu.be/0-pKKEdIxZM
 
-# Link do Jogo
-https://drive.google.com/drive/folders/16mwNxYEbRgxJJqYr0ELGDjGUat6KmVnk
-
 ##
 
 ## Atualizações para acréscimo de Menu e HUD
@@ -61,3 +58,6 @@ Foi criado um public void para carregar a fase, não necessitando void start nem
 ![image](https://github.com/GuilhermeM777/Colisao-Cena/assets/127865701/85812d4c-efe1-4332-b7c4-787638d84744)
 
 Para fazer esse simples temporizador, que vai iniciar quando a cena foi trocada, o objetivo é que o personagem chegue antes do tempo, pois se não, o jogo voltará pro menu, mostrando que ele perdeu, só bastou declarar as variáveis do horário, iniciando em zero, e tendo que ir até 10 segundos.
+
+## Link do Jogo (Atualizado)
+https://drive.google.com/file/d/1IHnZiXBXlyOA9UftVwEPN1mkOhgKquff/view?usp=drive_link
