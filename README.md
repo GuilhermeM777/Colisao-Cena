@@ -35,10 +35,6 @@ Fazendo exatamente o seu objetivo, de ativar uma mensagem quando o Personagem ch
 
 Essa parede foi ativada o Trigger e o Kinematic, para o Personagem poder atravessar ela, a kinematic faz com que o objeto perca a física que está aplicada a ele, permitindo que isso seja feito.
 
-# Vídeo demonstração
-Abaixo um vídeo mostrando a funcionalidade do jogo.
-https://youtu.be/0-pKKEdIxZM
-
 ##
 
 ## Atualizações para acréscimo de Menu e HUD
@@ -61,3 +57,6 @@ Para fazer esse simples temporizador, que vai iniciar quando a cena foi trocada,
 
 ## Link do Jogo (Atualizado)
 https://drive.google.com/file/d/1IHnZiXBXlyOA9UftVwEPN1mkOhgKquff/view?usp=drive_link
+
+## Video de Demonstração (Atualizado)
+https://youtu.be/V7jSVpjKaA8?si=piZlFKB7Evb-vecc
