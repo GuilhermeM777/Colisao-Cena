@@ -56,7 +56,7 @@ Foi criado um public void para carregar a fase, não necessitando void start nem
 Para fazer esse simples temporizador, que vai iniciar quando a cena foi trocada, o objetivo é que o personagem chegue antes do tempo, pois se não, o jogo voltará pro menu, mostrando que ele perdeu, só bastou declarar as variáveis do horário, iniciando em zero, e tendo que ir até 10 segundos.
 
 ## Link do Jogo (Atualizado)
-https://drive.google.com/file/d/1IHnZiXBXlyOA9UftVwEPN1mkOhgKquff/view?usp=drive_link
+https://drive.google.com/file/d/1IHnZiXBXlyOA9UftVwEPN1mkOhgKquff/view?classId=f0643abd-0e31-4c6a-be01-3711a471dd39&assignmentId=26eab67f-9352-47b6-82fd-cd5eeae25fa2&submissionId=c26ab857-8ade-56d4-5107-df0e49216b00
 
 ## Video de Demonstração (Atualizado)
 https://youtu.be/V7jSVpjKaA8?si=piZlFKB7Evb-vecc
